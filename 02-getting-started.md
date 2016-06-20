@@ -20,7 +20,7 @@ npm install --save-dev webpack
 
 ### Some processors
 ```bash
-npm install --save-dev babel-loader babel-preset-es2015-webpack babel-preset-react
+npm install --save-dev babel-loader babel-preset-es2015 babel-preset-react
 ```
 
 ### Enable Babel
@@ -29,7 +29,7 @@ create a `.babelrc` file in the root directory and put
 
 ```json
 {
-  "presets": ["es2015-webpack", "react"]
+  "presets": ["es2015", "react"]
 }
 ```
 
