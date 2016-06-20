@@ -206,4 +206,13 @@ VisibleTodoList.contextTypes = {
 };
 ```
 
+## `reach-redux` library
 
+### `Provider` component
+```javascript	
+import {Provider} from 'react-redux'
+
+```
+
+## Next
+[Getting Started](02-getting-started.md)
