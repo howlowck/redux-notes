@@ -10,7 +10,7 @@ npm install --save-dev react react-dom
 
 ### Redux
 ```bash
-npm install --save-dev redux redux-react
+npm install --save-dev redux react-redux
 ```
 
 ### Asset Assembler
